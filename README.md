@@ -1,2 +1,0 @@
-# Practica1Jenkins.
-SinDS
